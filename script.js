@@ -15,7 +15,7 @@ const noMessages = [
     "Kì dạaa 🥺",
     "Koi pùn lắm óo",
     "huhu koi pùn quá òoo 😢",
-    "huhuhuhu 💔",
+    "huhu Méoo chọn lạii 💔",
     "Méo méo thương koi",
     "Méo chọn lại!! 😭",
     "Liu Liu 😜"
