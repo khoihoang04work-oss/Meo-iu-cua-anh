@@ -10,7 +10,7 @@ const gifStages = [
 ]
 
 const noMessages = [
-    "No",
+    "hongg",
     "Méo thiệc hemm? 🤔",
     "Kì dạaa 🥺",
     "Koi pùn lắm óo",
@@ -22,10 +22,10 @@ const noMessages = [
 ]
 
 const yesTeasePokes = [
-    "Méo bấm no thử i 😏",
-    "Méo méo phale bấm noo 👀",
+    "Méo bấm hong thử i 😏",
+    "Méo méo phale bấm hongg 👀",
     "Méo méo hong phake koiii 😈",
-    "Bấm no tui canh pà áa 😏"
+    "Bấm hongg tui canh pà áa 😏"
 ]
 
 let yesTeasedCount = 0
