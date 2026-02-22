@@ -16,8 +16,8 @@ const noMessages = [
     "Koi pùn lắm óo",
     "huhu koi pùn quá òoo 😢",
     "huhu Méoo chọn lạii 💔",
-    "Méo méo thương koi",
-    "Méo chọn lại!! 😭",
+    "Méo méoooooooo",
+    "Méo thương koiiii!! 😭",
     "Liu Liu 😜"
 ]
 
@@ -108,8 +108,8 @@ function handleNoClick() {
     const gifIndex = Math.min(noClickCount, gifStages.length - 1)
     swapGif(gifStages[gifIndex])
 
-    // Runaway starts at click 8
-    if (noClickCount >= 8 && !runawayEnabled) {
+    // Runaway starts at click 7
+    if (noClickCount >= 7 && !runawayEnabled) {
         enableRunaway()
         runawayEnabled = true
     }
